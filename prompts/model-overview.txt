@@ -1,0 +1,1 @@
+The Credit Line Decrease (CLD) model is a tool used to identify credit card accounts that have a high risk of default or potential losses. The CLD model will be used to reduce the credit limit of these accounts in order to mitigate potential losses. This model will be applied to all RRB credit card customers.

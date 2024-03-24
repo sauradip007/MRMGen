@@ -1,0 +1,3 @@
+[submodule "multipage"]
+	path = multipage
+	url = https://github.com/sauradip007/MRMGen.git
